@@ -1,3 +1,4 @@
+//Getting the nth node in a linked list BY ME.
 #include<iostream>
 using namespace std;
 
