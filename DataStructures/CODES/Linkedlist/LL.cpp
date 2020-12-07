@@ -1,3 +1,6 @@
+//First Code Of Linked List is here:
+//It includes Creation,Display,Insertion,Deletion,Length Functions etc...
+
 #include<iostream>
 using namespace std;
 class Node
