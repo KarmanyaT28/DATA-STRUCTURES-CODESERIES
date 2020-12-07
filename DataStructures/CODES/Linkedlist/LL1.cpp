@@ -1,3 +1,6 @@
+// FINDING SUM AND MAX 
+//It also includes Creation,Display,Insertion,Deletion,Length Functions etc...
+
 #include<iostream>
 
 using namespace std;
