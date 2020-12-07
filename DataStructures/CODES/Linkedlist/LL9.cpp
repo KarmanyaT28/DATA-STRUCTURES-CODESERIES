@@ -1,3 +1,5 @@
+//REMOVE DUPLICATES FROM LINKED LIST
+
 #include<iostream>
 using namespace std;
 class Node
