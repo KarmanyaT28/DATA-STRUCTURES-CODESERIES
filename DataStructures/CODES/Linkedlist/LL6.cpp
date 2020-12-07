@@ -1,3 +1,10 @@
+//AMAZING QUESTION::How To Know If An ELEMENT Is PRESENT IN A LINKED LIST OR NOT?
+//EXAMPLE QUESTION:: A small boy has 10 money notes in his pocket. While on his way 
+//to his school he saw an icecream vendor, and decided to purchase one. 
+//One icecream costs Rs. 100 but the vendor will accept only one note from all the customers 
+// because of so particular prices of icecreams.
+//Help this boy to purchase an icecream and find out if he is having a 100 rs. Note!!
+
 #include<iostream>
 using namespace std;
 
