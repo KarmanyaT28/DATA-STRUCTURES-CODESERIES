@@ -1,3 +1,4 @@
+//So here is the code to reverse a linked list using sliding pointers.
 #include<iostream>
 using namespace std;
 
